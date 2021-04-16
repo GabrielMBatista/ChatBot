@@ -1,6 +1,6 @@
 :robot: Chat Bot. [Chatnilson] :robot:
 
-Projeto teste para a vaga de front-end Developer baseado no seguinte pedido.
+Projeto teste para a vaga de front-end Developer baseado no seguinte projeto.
 [Dev Front-End.pdf](https://github.com/GabrielMBatista/ChatBot/files/6328109/Dev.Front-End.pdf)
 
 ### :link: Link do Surge:
