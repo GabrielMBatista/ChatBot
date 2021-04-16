@@ -1,11 +1,11 @@
 import GlobalState from './GlobalStates/GlobalState';
-import Body from './Modules/Body'
+import Body from './Modules/BasePage'
 function App() {
   return (
-    <GlobalState>
-      <Body></Body>
-    </GlobalState>
-  );
+      <GlobalState>
+        <Body/>
+      </GlobalState>
+      );
 }
 
 export default App;
