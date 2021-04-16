@@ -4,7 +4,7 @@ Projeto teste para a vaga de front-end Developer baseado no seguinte projeto.
 [Dev Front-End.pdf](https://github.com/GabrielMBatista/ChatBot/files/6328109/Dev.Front-End.pdf)
 
 ### :link: Link do Surge:
-Acesse [ChatBot](http://caring-faucet.surge.sh/) para visualização rapida.
+Acesse [ChatBot](http://caring-faucet.surge.sh/) para visualização rápida.
 
 ### :computer: Tecnologias:
 React.js / Styled-Components / Axios / Formik 
@@ -13,7 +13,7 @@ React.js / Styled-Components / Axios / Formik
 
 Faça o clone do projeto.
 
-Abra o terminal na pasta chatbot e execute os seguintes comandos.
+Abra o terminal na pasta chatbot e execute os seguintes comandos:
 
 npm install 
 
